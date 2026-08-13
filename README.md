@@ -55,4 +55,4 @@ setorial e monitoramento de oportunidades no mercado através de um sistema de s
 └── README.md
 
 ## Contato
-[LinkedIn](www.linkedin.com/in/fernanda-terra-3650a3265) | [E-mail](seu-email)
+[LinkedIn](www.linkedin.com/in/fernanda-terra-3650a3265) |
