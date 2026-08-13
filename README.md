@@ -36,7 +36,7 @@ setorial e monitoramento de oportunidades no mercado através de um sistema de s
 - Radar de mercado com score de oportunidade
 
 ## 🔗 Dashboard interativo
-[Acessar dashboard](<iframe title="Dashboard Análise de Ações" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWJmZjkxMjctY2Q3NS00NjM4LWFmOTAtZmVmYjVlNWQxMjcyIiwidCI6IjcyODMwODAzLTI3MmMtNDMwOC1hYTFhLTY3ZWRmNmQ5OWUyMiJ9&pageName=d70887b1b1c45e08d403" frameborder="0" allowFullScreen="true"></iframe>)
+[Acessar dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWJmZjkxMjctY2Q3NS00NjM4LWFmOTAtZmVmYjVlNWQxMjcyIiwidCI6IjcyODMwODAzLTI3MmMtNDMwOC1hYTFhLTY3ZWRmNmQ5OWUyMiJ9&pageName=d70887b1b1c45e08d403)
 
 ## Preview
 
