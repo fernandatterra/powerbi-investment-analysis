@@ -47,4 +47,4 @@ setorial e monitoramento de oportunidades no mercado através de um sistema de s
 ![Análise de Investimentos](imagens/analise.png)
 
 ## Contato
-[LinkedIn](www.linkedin.com/in/fernanda-terra-3650a3265) |
+[LinkedIn](www.linkedin.com/in/fernanda-terra-3650a3265)
