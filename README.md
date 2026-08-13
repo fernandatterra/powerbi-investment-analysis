@@ -46,13 +46,5 @@ setorial e monitoramento de oportunidades no mercado através de um sistema de s
 **Análise de Investimentos**
 ![Análise de Investimentos](imagens/analise.png)
 
-## Estrutura do repositório
-
-├── dashboard.pbix
-├── imagens/
-│   ├── carteira.png
-│   └── analise.png
-└── README.md
-
 ## Contato
 [LinkedIn](www.linkedin.com/in/fernanda-terra-3650a3265) |
