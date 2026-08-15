@@ -15,13 +15,13 @@ setorial e monitoramento de oportunidades no mercado através de um sistema de s
 
 ## Estrutura do Dashboard
 
-### 1️⃣ Carteira de Investimentos
+### 1. Carteira de Investimentos
 - **KPIs principais:** Patrimônio Total, Investimento Total, Lucro Total, Rentabilidade Total e Peso da Carteira
 - **Distribuição por setor:** participação percentual de cada setor (Financeiro, Energia Elétrica, Petróleo e Gás, Seguros, Tecnologia, etc.)
 - **Lucro/Prejuízo por ativo**
 - **Valor patrimonial por ativo**
 
-### 2️⃣ Análise de Investimentos
+### 2. Análise de Investimentos
 - **Rendimento vs. Meta de Rendimento** por ativo, com toggle entre Cotação e Rendimento
 - **Minha Carteira — Posições:** preço médio, quantidade, cotação atual, rendimento e status (Esticado / Neutro)
 - **Mercado — Cotações & Oportunidades:** varredura de ações e BDRs, com mínima/máxima de 52 semanas, score e sinal (Neutro / Atenção / Observar / Realizar)
