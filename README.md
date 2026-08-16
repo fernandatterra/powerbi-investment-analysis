@@ -1,4 +1,4 @@
-# 📊 Dashboard de Análise de Investimentos — Power BI
+# 📊 Dashboard de Análise de Investimentos
 
 ## Objetivo
 
